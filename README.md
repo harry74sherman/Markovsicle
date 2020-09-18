@@ -69,6 +69,13 @@ intersection of the arts and technology, so I’m really happy that I challenged
 a new tool and try out some tricky animations and effects. Nonetheless, I know I’m hardly scratching 
 the surface of what’s possible with this software. 
 
+In terms of what's next, I would savor the opportunity to continue developing this project. While
+these animations may seem trivial, they took me a decent amount of time to implement because I was 
+just getting used this these IDE and coding style, as well and trying to reteach myself java. I believe
+that I can make something a lot more useful and exciting with processing if given more time to expand
+on this. I also hope to continue making animations, and look into making graphical user interfaces with
+Processing.
+
 # Assessing the "creativity" of this system
 
 Based on what metrics, definition, or criteria are used, this system could be considered creative.
